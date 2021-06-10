@@ -1,4 +1,4 @@
-# DPP
+# Data Protection and Privacy
 
 This is an academic Project in which I have used different techniques for Graph anonymization and why is it important.
 There are different types of attack which are active and Passive.
